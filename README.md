@@ -18,3 +18,11 @@
 
    d. **Select the repository folder you have cloned:**
       - Navigate to the folder where you cloned your repository and select it.
+
+## Installation for accessing only the exe of the game
+
+1. **Clone the Repository:**
+ 
+2. **Locate the .exe file in the repository folder and open it**
+
+3. **The game window will open and you are able to play**
