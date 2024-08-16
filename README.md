@@ -6,4 +6,8 @@
 
 1. **Clone the Repository:**
 
-2. **Open the repository folder and add it as an existing project in Unity:** 2a.Open the Unity Hub 2b.Click the icon next to Add 2c.Click the "Add project from disk" 2e.Select the repository folder you have cloned
+2. **Open the repository folder and add it as an existing project in Unity:**
+    2a.Open the Unity Hub
+    2b.Click the icon next to Add
+    2c.Click the "Add project from disk"
+    2e.Select the repository folder you have cloned
